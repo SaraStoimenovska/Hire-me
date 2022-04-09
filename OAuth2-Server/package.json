@@ -14,7 +14,7 @@
     "ejs": "^2.5.1",
     "express": "^4.15.3",
     "express-session": "^1.14.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "mongo": "^0.1.0",
     "mongoose": "^4.10.3",
     "oauth2orize": "^1.8.0",
